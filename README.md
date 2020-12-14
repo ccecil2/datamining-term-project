@@ -1,1 +1,3 @@
 # datamining-term-project
+
+To run this program, go to https://www.pythonanywhere.com/, create an account (if you don't already have one), log in, select "Web" in the upper right hand corner, select "add a new web app" on the upper left, create a web app that runs flask and Python 3.6, create a new directory called "templates" and add the contents of the templates folder here to it, then add all of the other files to the "mysite" directory (the one above templates). Once that is done, navigate to your website, enter some text into the box, then select "submit". A working version of the code can be found at http://ccecil2.pythonanywhere.com/
